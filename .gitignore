@@ -1,0 +1,24 @@
+# VS Code
+.vscode/
+
+# C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# CMake
+build/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
